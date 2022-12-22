@@ -9,6 +9,7 @@
 
 <!--
 **RivanAP/RivanAP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
 
 Here are some ideas to get you started:
 
