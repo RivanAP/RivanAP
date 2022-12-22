@@ -1,7 +1,7 @@
 ### Hi there, I'm Rivan Adi Pratama 👋
 
 ### and here is my stats
-<p align="center"><img src="https://www.codewars.com/users/RivanAP/badges/large"/><br /><br />
+<p align="center"><img src="https://www.codewars.com/RivanAP/RivanAP/badges/large"/><br /><br />
   <img src="https://github-readme-stats.vercel.app/api?username=RivanAP&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RivanAP&theme=monokai"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RivanAP&layout=compact&theme=monokai&langs_count=12"/><br />
